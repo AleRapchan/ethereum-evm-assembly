@@ -1,6 +1,6 @@
 # Ethereum EVM Assembly
 Solidity program done with with "non-functional" assembly expressions as swapN, dupN, add, sub, mul, and exp to compute the simple function bellow:
-![Logo](https://alexandrebarros.com/global/car-insurance/func1.png?alt=ethereum-evm-function)
+![Logo](https://alexandrebarros.com/global/func1.png?alt=ethereum-evm-function)
 
 Test case: Evaluating f(5,6) should return 3993.
 
