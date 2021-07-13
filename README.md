@@ -19,3 +19,4 @@ Date  |  Revision  |  Description  |  Author
 ## Links
 - Use the [Remix Solidity IDE](https://remix.ethereum.org/) to develop and test your program.
 - See the [list of EVM opcodes](https://ethereum.stackexchange.com/questions/119/what-opcodes-are-available-for-the-ethereum-evm) for reference.
+- More about [ETHEREUM VIRTUAL MACHINE (EVM)](https://ethereum.org/en/developers/docs/evm/)
