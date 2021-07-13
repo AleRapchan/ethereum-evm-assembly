@@ -1,4 +1,6 @@
 # Ethereum EVM Assembly
+![Logo](https://alexandrebarros.com/global/evm.png?alt=ethereum-evm)
+
 Solidity program done with with "non-functional" assembly expressions as swapN, dupN, add, sub, mul, and exp to compute the simple function bellow:
 
 ![Logo](https://alexandrebarros.com/global/func1.png?alt=ethereum-evm-function)
