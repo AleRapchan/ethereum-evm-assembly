@@ -15,3 +15,7 @@ For support, email blockchain@alexandrebarros.com or join our Slack channel.
 Date  |  Revision  |  Description  |  Author
 --------  |  --------  |  --------  |  --------	
 15/06/2021  |  `0.1`  |  First Draft  |  Alexandre Rapchan B. Barros
+
+## Links
+Use the [Remix Solidity IDE](https://remix.ethereum.org/) to develop and test your program.
+See the [list of EVM opcodes](https://ethereum.stackexchange.com/questions/119/what-opcodes-are-available-for-the-ethereum-evm) for reference.
